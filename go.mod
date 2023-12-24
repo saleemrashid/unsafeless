@@ -1,3 +1,3 @@
 module github.com/saleemrashid/unsafeless
 
-go 1.17
+go 1.18
